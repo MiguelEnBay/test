@@ -1,5 +1,5 @@
-Curso Big Data 
+#Curso Big Data 
 
-Las soluciones de todos los dias. 
+##Las soluciones de todos los dias. 
 
-Abrir en google collab.
+###Abrir en google collab.
